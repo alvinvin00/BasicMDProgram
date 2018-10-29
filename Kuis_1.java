@@ -17,7 +17,7 @@ int akhir = s.nextInt();
 System.out.println("Yang termasuk tahun kabisat dari tahun"+awal+"-"+akhir);
 
 while(awal<=akhir){
-	if (awal%4==0&&awal%100!=0||(awal%400==0&&awal%100!=0)){
+	if (awal%400 == 0 || (awal%100!=0&&awal%4==0)){
 	System.out.print(awal+" ");
 	}
 	awal++;
