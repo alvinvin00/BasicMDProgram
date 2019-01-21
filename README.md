@@ -6,4 +6,4 @@ Collections of Java program made to help any college student and first-timers do
 # Notes from dev
 Goodluck on coding and future endeavours, either you'll continue to code or quit, there'll always someone who supports you!
 Anyways, to MDP's student who read this (if you happened to), good luck on Final ~~Jeopardy!~~ Exam!
-Regards, Alvin.
+
